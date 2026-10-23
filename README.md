@@ -1,6 +1,6 @@
 # doppelganger
 
-Typosquat permutation scanner. Generates algorithmic lookalikes of a domain, resolves them over plain DNS, inspects their TLS certificates, and classifies each hit — without API keys, external databases, or third-party services.
+Typosquat permutation scanner. Generates algorithmic lookalikes of a domain, resolves them over plain DNS, inspects their TLS certificates, and classifies each hit without API keys, external databases, or third-party services.
 
 Single file. Python 3.8+. Standard library only.
 
